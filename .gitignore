@@ -1,0 +1,21 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+
+# Archivos de compilación
+*.VC.db
+*.VC.opendb
+*.opensdf
+*.sdf
+*.sln
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
